@@ -1,0 +1,6 @@
+- apt: name=apache2 state=latest
+  name: Install on Debian
+  notify: 
+  - restart apache2    
+
+

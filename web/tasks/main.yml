@@ -1,0 +1,3 @@
+---
+# tasks file for /etc/ansible/roles/web
+- import_tasks: install.yml

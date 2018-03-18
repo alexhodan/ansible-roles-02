@@ -1,0 +1,4 @@
+---
+# tasks file for /etc/ansible/roles/web2
+
+- import_tasks: installer.yml
